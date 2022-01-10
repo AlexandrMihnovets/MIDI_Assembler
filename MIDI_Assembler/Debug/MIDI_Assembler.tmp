@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>d:\документы\atmel studio\6.2\MIDI_Assembler\MIDI_Assembler\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>d:\документы\atmel studio\6.2\MIDI_Assembler\MIDI_Assembler\MIDI_Assembler.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\m328Pdef.inc</FILE>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\m328pdef.inc</FILE>
+  <FILE>d:\документы\atmel studio\6.2\MIDI_Assembler\MIDI_Assembler\macro.inc</FILE>
+  <FILE>d:\документы\atmel studio\6.2\MIDI_Assembler\MIDI_Assembler\interrupts.inc</FILE>
+  <FILE>d:\документы\atmel studio\6.2\MIDI_Assembler\MIDI_Assembler\flush.inc</FILE>
+  <FILE>d:\документы\atmel studio\6.2\MIDI_Assembler\MIDI_Assembler\timers_ini.inc</FILE>
+  <FILE>d:\документы\atmel studio\6.2\MIDI_Assembler\MIDI_Assembler\port_ini.inc</FILE>
+  <FILE>d:\документы\atmel studio\6.2\MIDI_Assembler\MIDI_Assembler\uart_ini.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>d:\документы\atmel studio\6.2\MIDI_Assembler\MIDI_Assembler\Debug/MIDI_Assembler.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>MIDI_Assembler.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>MIDI_Assembler.map</FILE>
+  <FILE>MIDI_Assembler.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Reset><FILE>d:\документы\atmel studio\6.2\MIDI_Assembler\MIDI_Assembler\MIDI_Assembler.asm</FILE><LINE>26</LINE></Reset>
+  <RAM_Flush><FILE>d:\документы\atmel studio\6.2\MIDI_Assembler\MIDI_Assembler\flush.inc</FILE><LINE>10</LINE></RAM_Flush>
+  <Flush><FILE>d:\документы\atmel studio\6.2\MIDI_Assembler\MIDI_Assembler\flush.inc</FILE><LINE>13</LINE></Flush>
+  <uart_init><FILE>d:\документы\atmel studio\6.2\MIDI_Assembler\MIDI_Assembler\uart_ini.inc</FILE><LINE>13</LINE></uart_init>
+  <Main><FILE>d:\документы\atmel studio\6.2\MIDI_Assembler\MIDI_Assembler\MIDI_Assembler.asm</FILE><LINE>50</LINE></Main>
+ </LABELS>
+</ASSEMBLER_INFO>
